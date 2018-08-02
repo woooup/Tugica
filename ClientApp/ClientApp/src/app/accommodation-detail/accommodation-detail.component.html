@@ -1,0 +1,66 @@
+<style>
+.img{
+  height: 400px;
+  widows: 400px;
+}
+
+</style>
+
+<div *ngIf="accommodation">
+  <div class="container">
+      <h2>Accomodation</h2>
+      <div class="panel panel-default">
+        <div class="panel-heading">{{accommodation.Name}}</div>
+
+        <!--Panel body-->
+        <div class="panel-body">
+          <span style="float: left">
+              <img class="card-img-top" src={{accommodation.ImageURL}} alt="">
+          </span>
+
+          <span style="float:left;margin-left: 4%">
+            <div>
+                <label>Name: </label> {{accommodation.Name}}
+            </div>
+            <div>
+                <label>Accommodation type: </label> {{accommodation.AccomodationType.Name}}
+            </div>
+            <div>
+                <label>Address: </label> {{accommodation.Address}}
+            </div>
+            <div>
+                <label>Description: </label>
+                <div style="background-color: grey;">
+                    {{accommodation.Description}}
+                </div> 
+            </div>
+            <div>
+                <label>Average grade: </label> {{accommodation.AvrageGrade}}
+            </div>
+            <div>
+                <label>Rooms: </label> {{accommodation.Rooms?.length}}
+            </div>
+          </span> 
+        </div>
+
+        <!--Panel footer -->
+        <div class="panel-footer">
+            <span>
+                <button type="button" class="btn btn-success">Reserve</button>
+                <button type="button" style="margin-left: 5pt" class="btn btn-default">Comment</button>
+              
+            </span>
+          <span *ngIf="isLoggedIn()">
+              <button type="button" class="btn btn-default" style="margin-left: 5pt" *ngIf="getUserRole() == 'Admin'">Edit</button>
+              <button type="button" class="btn btn-default" style="margin-left: 5pt" *ngIf="getUserRole() == 'Admin'">Delete</button>
+            
+          </span>
+
+        </div>
+
+      </div>
+    </div>
+</div>
+ 
+  
+  

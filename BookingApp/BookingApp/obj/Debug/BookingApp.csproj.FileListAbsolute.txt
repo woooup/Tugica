@@ -1,0 +1,2012 @@
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Initial.resources
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Initial.resources
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Deploydatabase.resources
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.proba.resources
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web1\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Initial.resources
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Deploydatabase.resources
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.proba.resources
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\student\Desktop\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Initial.resources
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Deploydatabase.resources
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.proba.resources
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web3\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.proba2.resources
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Init.resources
+C:\Users\Saswert\Desktop\Web5\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Init.resources
+C:\Users\student\Desktop\projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Init.resources
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Init.resources
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web8\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Proba.resources
+C:\ESI\web blok\Projekat\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Proba.resources
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Init.resources
+C:\Users\Saswert\Desktop\Web11\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Init.resources
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\Saswert\Desktop\Web14\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Init.resources
+C:\Users\Saswert\Desktop\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Owin.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Init.resources
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+E:\Fax\blok 7\Web15\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+D:\ESI\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+D:\ESI\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+D:\ESI\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+D:\ESI\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+D:\ESI\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Owin.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+D:\ESI\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+D:\ESI\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+D:\ESI\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+D:\ESI\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+D:\ESI\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+D:\ESI\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+D:\ESI\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+D:\ESI\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Initial.resources
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ApplicationInsights.config
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\csc.exe
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\vbc.exe
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\BookingApp.dll.config
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\BookingApp.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\BookingApp.pdb
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\EntityFramework.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Owin.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Spatial.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Cors.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Razor.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\WebGrease.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Spatial.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Razor.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\EntityFramework.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+D:\ESI\Web\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+D:\ESI\Web\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.pdb
+D:\ESI\Web\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Initial.resources
+D:\ESI\Web\Borba\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ApplicationInsights.config
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\csc.exe
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\vbc.exe
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\BookingApp.dll.config
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\BookingApp.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\BookingApp.pdb
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Antlr3.Runtime.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\EntityFramework.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.Web.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Data.Edm.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Data.OData.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Newtonsoft.Json.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Owin.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Net.Http.Formatting.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Spatial.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Cors.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Helpers.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.Cors.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.OData.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.Owin.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.WebHost.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Mvc.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Optimization.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Razor.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.WebPages.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\WebGrease.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.Web.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Data.Edm.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Data.OData.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Spatial.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.Cors.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.OData.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Newtonsoft.Json.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Net.Http.Formatting.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Helpers.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.WebHost.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Mvc.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Optimization.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Razor.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.WebPages.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Antlr3.Runtime.pdb
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\EntityFramework.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\System.Web.Http.Owin.xml
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\de\System.Spatial.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\es\System.Spatial.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\fr\System.Spatial.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\it\System.Spatial.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ja\System.Spatial.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ko\System.Spatial.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\ru\System.Spatial.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\obj\Debug\BookingApp.csprojResolveAssemblyReference.cache
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\obj\Debug\BookingApp.Migrations.Initial.resources
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\obj\Debug\BookingApp.csproj.GenerateResource.Cache
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\obj\Debug\BookingApp.dll
+C:\Users\stefa\Desktop\Dipl\BookingApp\BookingApp\obj\Debug\BookingApp.pdb

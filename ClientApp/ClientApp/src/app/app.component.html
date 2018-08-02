@@ -1,0 +1,118 @@
+<style>
+  .jumbotron {
+    background-image: url("https://media.onomohotel.com/images/cache/gd2/1199x800ke/0/01/135-phpugkbbc_dsc_1678.jpg");
+    background-color: #17234E;
+    margin-bottom: 10;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+
+  .panel-heading {
+    background-color: rgb(210, 221, 231);
+  }
+
+  .nav-link {
+    background-color: rgb(194, 57, 16);
+  }
+</style>
+<div class="container">
+  <div class="jumbotron">
+  </div>
+  <!--Navigation bar-->
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">Hotel Bong</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a [routerLink]="['/home']">Home</a> </li>
+        <li><a href="#">Rooms</a></li>
+        <li *ngIf="isLoggedIn()" class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" *ngIf="getUserRole() == 'Admin' || getUserRole() == 'Manager' ">Add new items
+              <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a [routerLink]="['/accommodation']">Accommodation</a></li>
+                <li><a>Accommodation type</a></li>
+                <li><a href="#">Country</a></li>
+                <li><a href="#">Place</a></li>
+                <li><a href="#">Region</a></li>
+                <li><a href="#">Rooms</a></li>
+              </ul>
+        </li>   
+        <li><a href="accommodation/accommodation.component.html" data-toggle="modal" data-target="#theModal">Lab 6</a>
+        </li>  
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a *ngIf="isLoggedIn()">
+            Logged user: {{getUserName()}}
+          </a>
+        </li>
+        <li class="nav-item">
+          <!-- Button trigger modal -->
+          <button data-toggle="modal" class="btn btn-default" *ngIf="isLoggedOut()" data-target="#myModalNorm">
+            Log In
+          </button>
+          <a class="nav-link" *ngIf="isLoggedIn()" (click)="logout()">Log out</a>
+        </li>
+        <li>
+          <button data-toggle="modal" class="btn btn-default" *ngIf="isLoggedOut()" data-target="#myModalForm">
+            Register
+          </button>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+
+<div class="modal fade text-center" id="theModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+      </div>
+    </div>
+  </div>
+<!-- Modal Login -->
+<div class="modal fade" id="myModalNorm" name="modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" id="Close">
+          <span aria-hidden="true">&times;</span>
+          <span class="sr-only">Close</span>
+        </button>
+        <h4 class="modal-title" id="myModalLabel">
+          Login
+        </h4>
+      </div>
+
+      <!-- Modal Body with form for login -->
+      <div class="modal-body">
+
+        <form role="form" #f="ngForm" (ngSubmit)="onSubmit(f.value, f)">
+          <div class="form-group">
+            <label for="exampleInputEmail1">Username</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter username" name="Username" ngModel/>
+          </div>
+          <div class="form-group">
+            <label for="exampleInputPassword1">Password</label>
+            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" name="Password" ngModel/>
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="modal-footer">
+        <h5 style="text-decoration-color: darkred;visibility: hidden" id="wrongMessage"> Wrong username or password</h5>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<router-outlet></router-outlet>
