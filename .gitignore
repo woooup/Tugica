@@ -2,3 +2,7 @@ node_modules/@angular-cli/ast-tools/node_modules/rxjs/operator/bufferWhen.d.ts
 node_modules/
 e2e/
 dist/
+bin/
+obj/
+BookingApp\BookingApp\bin
+BookingApp\BookingApp\obj
