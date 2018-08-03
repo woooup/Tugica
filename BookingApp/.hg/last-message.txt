@@ -1,7 +1,0 @@
-AccommodationController 
-
-ToDo:
-1. Izbrisao sam liste accom.u nekim klasama, umesto Regiona, koristim njegov id
-2. Videti zasto nece da se postavi accommodation
-3. Srediti bazu
-4. Srediti model

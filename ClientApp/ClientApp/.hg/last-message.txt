@@ -1,6 +1,0 @@
-HttpPost Accommodation
-
-To do:
-1. Videti zasto nece da se postavi
-2. Srediti server/bazu
-3. Mozda napraviti novi server u .NetCore
